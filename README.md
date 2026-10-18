@@ -13,6 +13,7 @@ You can now share this link with anyone!
 ## 🎯 Projects
 
 ### Featured Projects:
+- **[USD/JPY Deep Learning](https://github.com/fortunemaviya/usdjpy-deep-learning)** - End-to-end LSTM study with walk-forward testing: direction is a coin flip, volatility is forecastable
 - **Bike Rental Prediction** - Predictive ML model for bike rental demand
 - **Car Price Prediction** - Regression model for automobile price forecasting
 - **Customer Segmentation Flask App** - Web app using K-Means clustering
@@ -57,4 +58,4 @@ Connect with me on [GitHub](https://github.com/fortunemaviya) or reach out direc
 
 ---
 
-**Last Updated:** September 2025
+**Last Updated:** October 2026
